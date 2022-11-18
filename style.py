@@ -1,0 +1,11 @@
+white = "#fff"
+font_familty = "Arial"
+font_size_sm = 10
+font_size_md = 15
+color_1 = "#081e36"
+color_2 = "#477bb3"
+color_3 = "#f5f5f5"
+color_4 = "#f5a467"
+resizable = False
+geometry = "700x600"
+bg_color ='#477bb3'
